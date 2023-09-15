@@ -1,16 +1,26 @@
-### Hi there 👋
+<p align="center" width="300">
+   <h3 align="center">¡Hello 👋! Soy Abraham 💎</h3>
+</p>
 
-<!--
-**abrahamgalue/abrahamgalue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Soy un <strong>Estudiante universitario</strong> aprendiendo tecnologías web.</p>
+<p align="center">
+  <a href="https://twitter.com/AbrahamGaluee" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## Lo que estoy haciendo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente estoy estudiando en [URBE](https://www.urbe.edu/).
+- 🌱 Actualmente estoy aprendiendo [React](https://reactjs.org).
+- 💬 Contactame si estas interesado.
+
+<br />
+
+## Lenguajes y herramientas
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
