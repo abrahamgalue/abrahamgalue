@@ -5,14 +5,14 @@
 <p align="center">Soy un <strong>Estudiante universitario</strong> aprendiendo tecnologías web.</p>
 <p align="center">
   <a href="https://twitter.com/AbrahamGaluee" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abraham" height="28px" width="28px" />
   </a>
 </p>
 
 ## Lo que estoy haciendo:
 
 - 🔭 Actualmente estoy estudiando en [URBE](https://www.urbe.edu/).
-- 🌱 Actualmente estoy aprendiendo [React](https://reactjs.org).
+- 🌱 Actualmente estoy aprendiendo [React](https://react.dev/).
 - 💬 Contactame si estas interesado.
 
 <br />
