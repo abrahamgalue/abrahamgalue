@@ -5,10 +5,10 @@
 <p align="center">Soy un <strong>Estudiante universitario</strong> aprendiendo tecnologías web.</p>
 
 <p align='center'>
-   <a href="https://twitter.com/AbrahamGaluee" target="blank">
+   <a href="https://twitter.com/AbrahamGaluee" target="_blank">
    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/x.svg" alt="Abraham Galue Twitter" height="28px" width="28px" />
    </a>
-   <a href="https://www.linkedin.com/in/abrahamgalue" target="blank">
+   <a href="https://www.linkedin.com/in/abrahamgalue" target="_blank">
    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Abraham Galue LinkedIn" width="28px" height="28px" />
    </a>
 </p>
