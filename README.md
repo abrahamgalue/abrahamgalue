@@ -26,10 +26,10 @@
 
 ### 🚀 Lenguajes y herramientas
 
-<code><img alt="JavaScript" height="25" src="https://github.com/user-attachments/assets/9a7abd3f-2ebf-4586-abd9-c6d1854f1b2f"></code>
-<code><img alt="TypeScript" height="25" src="https://github.com/user-attachments/assets/398eb90a-f3d9-4d74-8b89-9f72e0224afc"></code>
-<code><img alt="React" height="25" src="https://github.com/user-attachments/assets/c8ff07a7-78ad-4e76-a665-a9963e383e34"></code>
-<code><img alt="Node.js" height="25" src="https://github.com/user-attachments/assets/d7813605-d60d-4c83-b4f4-d43a14befafe"></code>
-<code><img alt="Express.js" height="25" src="https://github.com/user-attachments/assets/73f01f39-3d43-4f60-ae06-50f0e8bd6527"></code>
-<code><img alt="PostgreSQL" height="25" src="https://github.com/user-attachments/assets/ee985a9d-cb04-47d8-bc8d-c3168bad773a"></code>
-<code><img alt="MongoDB" height="25" src="https://github.com/user-attachments/assets/05412d5a-1517-49fd-87b1-148dfdf7d759"></code>
+<code title="JavaScript"><img alt="JavaScript" height="25" src="https://github.com/user-attachments/assets/9a7abd3f-2ebf-4586-abd9-c6d1854f1b2f"></code>
+<code title="TypeScript"><img alt="TypeScript" height="25" src="https://github.com/user-attachments/assets/398eb90a-f3d9-4d74-8b89-9f72e0224afc"></code>
+<code title="React"><img alt="React" height="25" src="https://github.com/user-attachments/assets/c8ff07a7-78ad-4e76-a665-a9963e383e34"></code>
+<code title="Node.js"><img alt="Node.js" height="25" src="https://github.com/user-attachments/assets/d7813605-d60d-4c83-b4f4-d43a14befafe"></code>
+<code title="Express"><img alt="Express" height="25" src="https://github.com/user-attachments/assets/73f01f39-3d43-4f60-ae06-50f0e8bd6527"></code>
+<code title="PostgreSQL"><img alt="PostgreSQL" height="25" src="https://github.com/user-attachments/assets/ee985a9d-cb04-47d8-bc8d-c3168bad773a"></code>
+<code title="MongoDB"><img alt="MongoDB" height="25" src="https://github.com/user-attachments/assets/05412d5a-1517-49fd-87b1-148dfdf7d759"></code>
